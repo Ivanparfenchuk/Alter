@@ -1,0 +1,52 @@
+Alter End User License
+
+Copyright (c) 2026 Alter (AvoluxModz). All rights reserved.
+
+Alter is proprietary software. This repository is provided for the
+distribution of official releases and documentation only; the application's
+source code is not open source.
+
+1. GRANT OF USE
+   You are granted a free, non-exclusive, non-transferable license to
+   download, install, and use the Alter application on your own devices for
+   personal or commercial purposes, subject to the terms below.
+
+2. RESTRICTIONS
+   You may NOT:
+   - reverse engineer, decompile, or disassemble the application, except to
+     the limited extent expressly permitted by applicable law;
+   - modify, adapt, or create derivative works of the application itself;
+   - redistribute, resell, sublicense, rent, or lease the application or any
+     of its parts;
+   - remove or alter any copyright, trademark, or attribution notices.
+
+3. GENERATED CONTENT
+   Content created by you using Alter (for example, generated Smali dialogs)
+   is NOT covered by this license. Such content is governed by the separate
+   "Alter Generated Content License" (see LICENSE-GENERATED-CONTENT.txt).
+
+4. THIRD-PARTY COMPONENTS
+   Alter includes third-party open-source components that remain the property
+   of their respective authors and are licensed under their own terms. See
+   docs/THIRD_PARTY_LICENSES.md. Nothing in this license limits your rights
+   under those third-party licenses.
+
+5. TRADEMARKS
+   "Alter", "AlterProject", and the Alter logo are marks of the developer and
+   are not licensed for your use except to identify the unmodified
+   application.
+
+6. NO WARRANTY
+   THE APPLICATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE APPLICATION OR THE USE OR OTHER
+   DEALINGS IN THE APPLICATION.
+
+7. RESPONSIBLE USE
+   Alter is a reverse-engineering and modding tool intended for security
+   research, education, and modification of applications you own or are
+   authorized to modify. You are solely responsible for ensuring your use
+   complies with all applicable laws and any third-party terms of service.
